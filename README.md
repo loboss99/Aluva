@@ -38,5 +38,4 @@ https://shiny-otter-f41e9c.netlify.app/
 
 Repositorio
 
-Código fuente disponible en este repositorio de GitHub.
-
+Código fuente disponible en este repositorio de GitHub, en el cual se encuentran los dos proyectos, el mockup con estilos, y al ingresar a la carpeta classic-template se encuentra el desarrollo final.
